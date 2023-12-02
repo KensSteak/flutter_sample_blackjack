@@ -1,3 +1,16 @@
+- flutterとriverpodを試したときのリポジトリ
+- versionは下記
+```sh
+$ flutter --version
+Flutter 3.13.5 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision 12fccda598 (2 months ago) • 2023-09-19 13:56:11 -0700
+Engine • revision bd986c5ed2
+Tools • Dart 3.1.2 • DevTools 2.25.0
+
+$ rg "riverpod" pubspec.yaml
+33:  flutter_riverpod: ^2.4.9
+```
+- 下記はchatgptに書かせた概要
 
 # Blackjack App
 
