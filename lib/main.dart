@@ -355,7 +355,7 @@ class BlackjackPage extends ConsumerWidget {
               margin: EdgeInsets.symmetric(vertical: 20),
               height: 1,
               width: 100,
-              rolor: Colors.black,
+              color: Colors.black,
             ),
             Text('Your Cards:'),
             Row(
